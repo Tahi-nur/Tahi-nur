@@ -24,8 +24,8 @@ Welcome to my GitHub profile — I'm currently a trainee at **HackYourFuture**, 
 
 ## 📫 How to reach me
 
-- 📧 Email: [tahinurhossain@gmail.com)
-- 💼 LinkedIn: [https://www.linkedin.com/in/tahinur-h-39b97b152/]
+- 📧 Email: tahinurhossain@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/tahinur-h-39b97b152/
 
 ---
 
