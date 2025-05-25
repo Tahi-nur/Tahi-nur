@@ -8,7 +8,7 @@ Welcome to my GitHub profile — I'm currently a trainee at **HackYourFuture**, 
 
 ## 🌱 What I’m Learning
 
-- ✅ HTML, CSS, CLI, and Git
+- ✅ HTML, CSS, JS, CLI, and Git
 - 🚀 JavaScript (next up!)
 - 🛠️ GitHub collaboration workflows
 
