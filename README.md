@@ -1,46 +1,32 @@
-## Hi there 👋
+# 👋 Hello world, I'm Tahi-nur!
 
-# 👋 Hi there, I'm Tahi-nur!
+📍 Somewhere between the lines of code and the pages of a mystery novel — welcome to my GitHub!
 
-Welcome to my GitHub profile — I'm currently a trainee at **HackYourFuture**, learning to become a software developer. I'm passionate about building user-friendly websites and solving real-world problems through code.
-
----
+I'm currently a trainee at **HackYourFuture**, working hard to become a full-stack developer. I’m passionate about building accessible, meaningful, and beautifully functional websites that solve real problems and tell real stories.
 
 ## 🌱 What I’m Learning
+- ✅ HTML, CSS, Git & CLI
+- 🚀 JavaScript — currently diving deeper into its wild but wonderful logic
+- 🧰 GitHub collaboration workflows
+- 🌐 Exploring more tools every day... stay tuned!
 
-- ✅ HTML, CSS, JS, CLI, and Git
-- 🚀 JavaScript (next up!)
-- 🛠️ GitHub collaboration workflows
+## 📚 Beyond the Code
+When I'm not coding, you’ll find me lost in a thrilling book — especially psychological thrillers and mind-bending mysteries. Whether it's tracing a bug or unraveling a plot twist, I love solving puzzles.
 
----
+## 💡 A Bit About Me
+- 🔄 Always learning, always growing
+- 👯 I enjoy pair programming and collaborative learning
+- 🇳🇱 Based in the Netherlands
+- ✉️ Reach me at: tahinurhossain@gmail.com
+- 💼 Connect: [LinkedIn](https://www.linkedin.com/in/tahinur-h-39b97b152/)
 
-## 💡 A bit about me
-
-- 🧠 Curious, motivated, and always eager to learn
-- 👥 I enjoy pair programming and helping my peers
-- 🌍 Based in the Netherlands
-
----
-
-## 📫 How to reach me
-
-- 📧 Email: tahinurhossain@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/tahinur-h-39b97b152/
-
----
-
-## 🔧 Tools & Technologies
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-
----
+## 🛠️ Tools & Tech
+`HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code` and more on the way...
 
 ## 🎯 Fun Fact
+> “Every expert was once a beginner.”  
+I’m writing my story in both code and chapters — and you’re welcome to follow along.
 
-> "Every expert was once a beginner. I'm on my journey — and you're welcome to follow along!"
+---
 
-![Coding GIF](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
-
+✨ Let’s build something amazing — one line at a time!
